@@ -5,6 +5,7 @@
 ![#MiyonTicker](https://repository-images.githubusercontent.com/293203730/7413bb00-636c-11eb-8683-b4acd530459f "#MiyonTicker")
 
 # About #MiyonTicker
+- json だけの #MiyonTicker は開発中止となりました。
 - [#InstanceTicker](https://github.com/MiyonMiyon/InstanceTicker) で培ったものを PHP で公開予定。
 - フォークしたら「#なんとかTicker」を配布し合う構図？
 - アイコン画像データは収録していません。
