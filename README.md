@@ -12,6 +12,5 @@
 - - 「34.wtf 画像にする」を有効にすると、#InstanceTicker と同一になります。
 
 # License
-- (c)2018 Based on the original by custom.css of [Odakyu.app](https://odakyu.app/about) 
-- (c)2019 Based on the original by custom.css of [Kurage.cc](https://kurage.cc/about)
+- Based on the custom.css of (c)2018 [Odakyu.app](https://odakyu.app/about) and (c)2019 [Kurage.cc](https://kurage.cc/about)
 - (c)2018-2021 MiyonMiyon. Released under the MIT License.
