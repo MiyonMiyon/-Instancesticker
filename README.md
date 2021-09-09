@@ -8,16 +8,6 @@
 - [#InstanceTicker](https://github.com/MiyonMiyon/InstanceTicker) で培ったデータを JSON に移植。設置。みんなで共有。
 - またはそれ用のツールとかいろいろ。
 
-# Files
-- /docs/
-- MiyonTicker.json - Fediverse Instances Data of JSON
-- index.html - Sample JavaScript
-
-# Sites
-- [![miy.one](https://raw.githubusercontent.com/MiyonMiyon/MiyonTicker/master/docs/favicon.png "#miy.one")](https://miy.one/) - https://miy.one/
-- - [![Github Pages](https://res.cloudinary.com/weep/icon/github.png "Github Pages")](https://docs.github.com/ja/github/working-with-github-pages/about-github-pages) - https://g.miy.one/
-- - [![Netlify](https://res.cloudinary.com/weep/icon/netlify.png "Netlify")](https://netlify.com/) - https://n.miy.one/
-- - [![Vercel](https://res.cloudinary.com/weep/icon/vercel.png "vercel")](https://vercel.com/) - https://v.miy.one/
 
 # License
 - (c)2018 Based on the original by custom.css of [Odakyu.app](https://odakyu.app/about) 
